@@ -1,6 +1,6 @@
 # KBC-Game
 
-KBC Game is a fun game with scoring mechanism. It is implemented using c language and uses makefile to run code and Mingw to run make file
+KBC Game is a Question/Answer game. which is having scoring mechanism for evaluation. It can help us to test our gernal knowledge and Have fun in our free time. 
 
 ## Author
 
@@ -8,8 +8,8 @@ KBC Game is a fun game with scoring mechanism. It is implemented using c languag
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Aranshu/HTML-Dell-Store/blob/master/Image/Banner.png?raw=true)
+![App Screenshot](https://github.com/Aranshu/C-KBC-Game/blob/master/Images/Banner.png?raw=true)
 
-## Try it yourself
+## Links
 
-click [here](https://aranshu.github.io/HTML-Dell-Store/)
+Site [here](https://aranshu.github.io/C-KBC-Game/)
