@@ -48,13 +48,14 @@ int main()
 		}
 		printf("\n");
 	}
+	printf("Press any key to start\n");
 	getch();
 	//game loop
 	do
 	{
 		switch(option)//switch case
 		{
-			case 0: printf("soory try again later/n");
+			case 0: printf("soory try again later\n");
 					system("exit||exit 1");
 
 			case 1: if(check==0)
@@ -122,7 +123,7 @@ int main()
 				else
 				{
 					system("cls||clear");
-					printf("5 what is a heart of human made of\na cell\nb muscle\nc tissue\nd bone");
+					printf("5 what is a heart of human made of\na cell\nb muscle\nc tissue\nd bone\n");
 					inputb();
 				}
 				break;
@@ -144,7 +145,7 @@ int main()
 			case 7: if(check==0)
 				{
 					system("cls||clear");
-					printf("7 where zero was inventer\na usa\nb indian\nc china\nd russia\n");
+					printf("7 where zero was inventer\na usa\nb india\nc china\nd russia\n");
 					inputb();
 				}
 				else
