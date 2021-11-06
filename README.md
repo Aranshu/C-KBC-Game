@@ -1,6 +1,6 @@
 # KBC-Game
 
-KBC game is a question/answer based game. which is having scoring mechanism for evaluation as well as having a mechnism to shift the question difficulty level based on previous answere. This game can help us to test our gernal knowledge and have fun in our free time. 
+KBC game is a question/answer based game. which is having scoring mechanism for evaluation as well as having a mechanism to shift the question difficulty level based on previous answer. This game can help us to test our gernal knowledge and have fun in our free time. 
 
 ## Author
 
